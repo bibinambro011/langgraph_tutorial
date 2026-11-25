@@ -4,3 +4,6 @@ langchain-core
 langchain-openai
 langchain-anthropic
 dotenv
+pydantic
+langchain-tavily
+langchain_community
